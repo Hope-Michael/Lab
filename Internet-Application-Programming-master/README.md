@@ -1,2 +1,2 @@
-# Internet-Application-Programming
-Contains all lab practicals
+# Internet-Application-Programming LABS
+Contains all lab practicals.
